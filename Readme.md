@@ -10,7 +10,7 @@ In this tutorial, you will learn how to build a serverless web application using
 - A **backend** to invoke the generative AI model (Claude 3 Sonnet) and generate recipes.
 
 
-![]([https://d1.awsstatic.com/Getting%20Started/tutorials/build-a-basic-web-app-tutorial/build-basic-app-1.3078e53361b13f9fde6669cba0a570268ecc0d69.png](https://d1.awsstatic.com/Getting%20Started/tutorials/build-serverless-app-using-genai/build-serverless-app-1.cdd9cf6c11353e0c33edb23e840ca855d878304a.png)
+![](https://d1.awsstatic.com/Getting%20Started/tutorials/build-serverless-app-using-genai/build-serverless-app-1.cdd9cf6c11353e0c33edb23e840ca855d878304a.png)
 
 ### What you will accomplish
 
