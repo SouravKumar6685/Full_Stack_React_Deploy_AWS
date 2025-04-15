@@ -55,26 +55,6 @@ Note: If your AWS account is newly created (within the past 24 hours), some serv
 - **AWS Lambda**
 - **Amazon Bedrock**
 
-_Last updated: July 19, 2024_
-
----
-
-## Application Architecture
-
-The application architecture integrates several AWS services to create a seamless, serverless experience:
-
-- **AWS Amplify**: Used for both frontend hosting and backend integration.
-- **Amazon Bedrock**: Handles the AI-driven recipe generation using the Claude 3 Sonnet model.
-- **AWS Lambda**: Executes the backend logic for processing ingredient lists.
-- **AWS AppSync**: Provides the GraphQL API for interaction between the frontend and backend.
-- **AWS Cognito**: Manages user authentication for accessing the application securely.
-
-The following diagram visualizes the services involved:
-
-![Architecture Diagram](architecture-diagram.png)
-
----
-
 ## Tasks Overview
 
 This tutorial is divided into the following tasks. Each step builds upon the previous one to help you complete the entire workflow:
